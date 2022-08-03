@@ -1,1 +1,75 @@
 # CSSORAMA - The Next Generation CSS Framework
+## Documentation
+### Classes
+#### sr-only
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+#### not-sr-only
+    position: static;
+    width: auto;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    overflow: visible;
+    clip: auto;
+    white-space: normal;
+#### focus-within
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+#### focus
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+#### pointer-events-none
+    pointer-events: none;
+#### pointer-events-auto
+    pointer-events: auto;
+#### visible
+    visibility: visible;
+#### invisible
+    visibility: hidden;
+#### static
+    position: static;
+#### fixed
+    position: fixed;
+#### absolute
+    position: absolute;
+#### relative
+    position: relative
+#### sticky
+    position: sticky
+#### inset-0
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0
+#### inset-1
+    top: .25rem;
+    right: .25rem;
+    bottom: .25rem;
+    left: .25rem
+#### inset-2
+    top: .5rem;
+    right: .5rem;
+    bottom: .5rem;
+    left: .5rem
