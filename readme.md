@@ -1,5 +1,8 @@
 # CSSORAMA - The Next Generation CSS Framework
+
 ## Documentation
+### Installation
+        <link href="https://cssorama.github.io/.github/cssorama.css" rel="stylesheet">
 ### Classes
 #### sr-only
     position: absolute;
@@ -153,3 +156,33 @@
     right: 8rem;
     bottom: 8rem;
     left: 8rem
+#### inset-36
+    top: 9rem;
+    right: 9rem;
+    bottom: 9rem;
+    left: 9rem
+#### inset-40
+    top: 10rem;
+    right: 10rem;
+    bottom: 10rem;
+    left: 10rem
+#### inset-44
+    top: 11rem;
+    right: 11rem;
+    bottom: 11rem;
+    left: 11rem
+#### inset-48
+    top: 12rem;
+    right: 12rem;
+    bottom: 12rem;
+    left: 12rem
+#### inset-52
+    top: 13rem;
+    right: 13rem;
+    bottom: 13rem;
+    left: 13rem
+#### inset-56
+    top: 14rem;
+    right: 14rem;
+    bottom: 14rem;
+    left: 14rem
