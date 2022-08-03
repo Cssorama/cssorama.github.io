@@ -73,3 +73,83 @@
     right: .5rem;
     bottom: .5rem;
     left: .5rem
+#### inset-3
+    top: .75rem;
+    right: .75rem;
+    bottom: .75rem;
+    left: .75rem
+#### inset-4
+    top: 1rem;
+    right: 1rem;
+    bottom: 1rem;
+    left: 1rem
+#### inset-5
+    top: 1.25rem;
+    right: 1.25rem;
+    bottom: 1.25rem;
+    left: 1.25rem
+#### inset-6
+    top: 1.5rem;
+    right: 1.5rem;
+    bottom: 1.5rem;
+    left: 1.5rem
+#### inset-7
+    top: 1.75rem;
+    right: 1.75rem;
+    bottom: 1.75rem;
+    left: 1.75rem
+#### inset-8
+    top: 2rem;
+    right: 2rem;
+    bottom: 2rem;
+    left: 2rem
+#### inset-9
+    top: 2.25rem;
+    right: 2.25rem;
+    bottom: 2.25rem;
+    left: 2.25rem
+#### inset-10
+    top: 2.5rem;
+    right: 2.5rem;
+    bottom: 2.5rem;
+    left: 2.5rem
+#### inset-11
+    top: 2.75rem;
+    right: 2.75rem;
+    bottom: 2.75rem;
+    left: 2.75rem
+#### inset-12
+    top: 3rem;
+    right: 3rem;
+    bottom: 3rem;
+    left: 3rem
+#### inset-14
+    top: 3.5rem;
+    right: 3.5rem;
+    bottom: 3.5rem;
+    left: 3.5rem
+#### inset-16
+    top: 4rem;
+    right: 4rem;
+    bottom: 4rem;
+    left: 4rem
+#### inset-20
+    top: 5rem;
+    right: 5rem;
+    bottom: 5rem;
+    left: 5rem
+#### inset-24
+    top: 6rem;
+    right: 6rem;
+    bottom: 6rem;
+    left: 6rem
+#### inset-28
+    top: 7rem;
+    right: 7rem;
+    bottom: 7rem;
+    left: 7rem
+#### inset-32
+    top: 8rem;
+    right: 8rem;
+    bottom: 8rem;
+    left: 8rem
