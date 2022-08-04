@@ -351,3 +351,17 @@
     bottom: 24rem
 #### bottom-auto
     bottom: auto
+#### bottom-full
+    bottom: 100%
+#### left-0
+    left: 0
+#### left-1
+    left: .25rem
+#### left-2
+    left: .5rem
+#### left-3
+    left: .75rem
+#### left-4
+    left: 1rem
+#### left-5
+    left: 1.25rem
