@@ -365,3 +365,53 @@
     left: 1rem
 #### left-5
     left: 1.25rem
+#### left-6
+    left: 1.5rem
+#### left-7
+    left: 1.75rem
+#### left-8
+    left: 2rem
+#### left-9
+    left: 2.25rem
+#### left-10
+    left: 2.5rem
+#### left-11
+    left: 2.75rem
+#### left-12
+    left: 3rem
+#### left-14
+    left: 3.5rem
+#### left-16
+    left: 4rem
+#### left-18
+    left: 4.5rem
+#### left-20
+    left: 5rem
+#### left-24
+    left: 6rem
+#### left-28
+    left: 7rem
+#### left-32
+    left: 8rem
+#### left-36
+    left: 9rem
+#### left-40
+    left: 10rem
+#### left-44
+    left:11rem
+#### left-48
+    left: 12rem
+#### left-52
+    left: 13rem
+#### left-56
+    left: 14rem
+#### left-60
+    left: 15rem
+#### left-64
+    left: 16rem
+#### left-72
+    left: 18rem
+#### left-80
+    left: 20rem
+#### left-96
+    left: 24rem
